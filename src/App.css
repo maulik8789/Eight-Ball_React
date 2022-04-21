@@ -1,0 +1,10 @@
+.App button{
+  font-size: 200%;
+  display: block;
+  margin: 1em auto 1em auto;
+}
+
+.App h3{
+  margin-left: 45%;
+  vertical-align: middle;
+}
